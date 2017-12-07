@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.myanim">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager_index"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8">
+
+    </android.support.v4.view.ViewPager>
+
+    <RadioGroup
+        android:id="@+id/group"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/shouye"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_weight="1"
+            android:button="@null"
+            android:padding="5dp"
+            android:drawableTop="@drawable/shouye_select"
+            android:text="首页"
+            android:textColor="#a8a8a8"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/kecheng"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/class_select"
+            android:gravity="center_horizontal"
+            android:text="我的课"
+            android:padding="5dp"
+            android:textColor="#a8a8a8"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/geren"
+            android:textColor="#a8a8a8"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_weight="1"
+            android:button="@null"
+            android:padding="5dp"
+            android:drawableTop="@drawable/geren_select"
+            android:text="个人中心"
+            android:textSize="12sp" />
+    </RadioGroup>
+
+</LinearLayout>

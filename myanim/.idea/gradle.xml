@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../library" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../myanimationset" />
+            <option value="$PROJECT_DIR$/../mybook" />
+            <option value="$PROJECT_DIR$/../mybook2" />
+            <option value="$PROJECT_DIR$/../mybook3" />
+            <option value="$PROJECT_DIR$/../mycircle" />
+            <option value="$PROJECT_DIR$/../mycircle2" />
+            <option value="$PROJECT_DIR$/../mycircle3" />
+            <option value="$PROJECT_DIR$/../mycircle4" />
+            <option value="$PROJECT_DIR$/../mycircle5" />
+            <option value="$PROJECT_DIR$/../mycircle6" />
+            <option value="$PROJECT_DIR$/../mycircle8" />
+            <option value="$PROJECT_DIR$/../mydemo" />
+            <option value="$PROJECT_DIR$/../mydemo2" />
+            <option value="$PROJECT_DIR$/../mydemo3" />
+            <option value="$PROJECT_DIR$/../mydemo4" />
+            <option value="$PROJECT_DIR$/../myflash" />
+            <option value="$PROJECT_DIR$/../myforexample" />
+            <option value="$PROJECT_DIR$/../myforexample2" />
+            <option value="$PROJECT_DIR$/../myforexample3" />
+            <option value="$PROJECT_DIR$/../myforexample4" />
+            <option value="$PROJECT_DIR$/../myimage" />
+            <option value="$PROJECT_DIR$/../myjsoncircle" />
+            <option value="$PROJECT_DIR$/../mymanytext" />
+            <option value="$PROJECT_DIR$/../mymanytext2" />
+            <option value="$PROJECT_DIR$/../mymoneytext2" />
+            <option value="$PROJECT_DIR$/../mypropert" />
+            <option value="$PROJECT_DIR$/../mypropert01" />
+            <option value="$PROJECT_DIR$/../mypropert2" />
+            <option value="$PROJECT_DIR$/../mypropert3" />
+            <option value="$PROJECT_DIR$/../mypropert4" />
+            <option value="$PROJECT_DIR$/../mytranslation" />
+            <option value="$PROJECT_DIR$/../mytranslation2" />
+            <option value="$PROJECT_DIR$/../mytranslation3" />
+            <option value="$PROJECT_DIR$/../mytranslation4" />
+            <option value="$PROJECT_DIR$/../myzonghe" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

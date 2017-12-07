@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyCustomcontrol.iml" filepath="$PROJECT_DIR$/../MyCustomcontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myanim.iml" filepath="$PROJECT_DIR$/myanim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myanimationset/myanimationset.iml" filepath="$PROJECT_DIR$/../myanimationset/myanimationset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybook/mybook.iml" filepath="$PROJECT_DIR$/../mybook/mybook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybook2/mybook2.iml" filepath="$PROJECT_DIR$/../mybook2/mybook2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybook3/mybook3.iml" filepath="$PROJECT_DIR$/../mybook3/mybook3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycircle/mycircle.iml" filepath="$PROJECT_DIR$/../mycircle/mycircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycircle2/mycircle2.iml" filepath="$PROJECT_DIR$/../mycircle2/mycircle2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycircle3/mycircle3.iml" filepath="$PROJECT_DIR$/../mycircle3/mycircle3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycircle4/mycircle4.iml" filepath="$PROJECT_DIR$/../mycircle4/mycircle4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycircle5/mycircle5.iml" filepath="$PROJECT_DIR$/../mycircle5/mycircle5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycircle6/mycircle6.iml" filepath="$PROJECT_DIR$/../mycircle6/mycircle6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mycircle8/mycircle8.iml" filepath="$PROJECT_DIR$/../mycircle8/mycircle8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mydemo/mydemo.iml" filepath="$PROJECT_DIR$/../mydemo/mydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mydemo2/mydemo2.iml" filepath="$PROJECT_DIR$/../mydemo2/mydemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mydemo3/mydemo3.iml" filepath="$PROJECT_DIR$/../mydemo3/mydemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mydemo4/mydemo4.iml" filepath="$PROJECT_DIR$/../mydemo4/mydemo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myflash/myflash.iml" filepath="$PROJECT_DIR$/../myflash/myflash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myforexample/myforexample.iml" filepath="$PROJECT_DIR$/../myforexample/myforexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myforexample2/myforexample2.iml" filepath="$PROJECT_DIR$/../myforexample2/myforexample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myforexample3/myforexample3.iml" filepath="$PROJECT_DIR$/../myforexample3/myforexample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myforexample4/myforexample4.iml" filepath="$PROJECT_DIR$/../myforexample4/myforexample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myimage/myimage.iml" filepath="$PROJECT_DIR$/../myimage/myimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myjsoncircle/myjsoncircle.iml" filepath="$PROJECT_DIR$/../myjsoncircle/myjsoncircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mymanytext/mymanytext.iml" filepath="$PROJECT_DIR$/../mymanytext/mymanytext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mymanytext2/mymanytext2.iml" filepath="$PROJECT_DIR$/../mymanytext2/mymanytext2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mymoneytext2/mymoneytext2.iml" filepath="$PROJECT_DIR$/../mymoneytext2/mymoneytext2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypropert/mypropert.iml" filepath="$PROJECT_DIR$/../mypropert/mypropert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypropert01/mypropert01.iml" filepath="$PROJECT_DIR$/../mypropert01/mypropert01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypropert2/mypropert2.iml" filepath="$PROJECT_DIR$/../mypropert2/mypropert2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypropert3/mypropert3.iml" filepath="$PROJECT_DIR$/../mypropert3/mypropert3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypropert4/mypropert4.iml" filepath="$PROJECT_DIR$/../mypropert4/mypropert4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytranslation/mytranslation.iml" filepath="$PROJECT_DIR$/../mytranslation/mytranslation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytranslation2/mytranslation2.iml" filepath="$PROJECT_DIR$/../mytranslation2/mytranslation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytranslation3/mytranslation3.iml" filepath="$PROJECT_DIR$/../mytranslation3/mytranslation3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytranslation4/mytranslation4.iml" filepath="$PROJECT_DIR$/../mytranslation4/mytranslation4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myzonghe/myzonghe.iml" filepath="$PROJECT_DIR$/../myzonghe/myzonghe.iml" />
+    </modules>
+  </component>
+</project>
